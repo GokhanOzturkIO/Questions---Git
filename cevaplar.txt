@@ -1,0 +1,92 @@
+1)git bir versiyon dağıtım sistemidir, takımca çalışmak  veya bir şeyi versiyonlamak içindir
+
+2)pull ve fetcin farkı: fetch uzaktaki mesela arkadaşın yaptığı değişikliklerden yeni bir güncelleme olduğunu bilgisayarımıza haber eder. pull ise bu güncellemeleri almak için
+fetchten sonra pull etmeliyiz
+fetchlemeden pull edersek herhangi pull edeceğim bir güncelleme göremedim der ve aslında var arkadaşın yolladım diyor o zaman göremezsin mesela önce fetch yap
+
+3)arkadaş commitlemiş ama pushlamamış olabilir yada pushladıysa biz fetchlemeden pullamaya çalışıyozdur
+
+4)Git'teki origin, varsayılan olarak uzak depoya (remote repository) verilen isimdir. Genellikle bir projeyi klonladığında, Git o projeyi klonladığın uzak depo bağlantısını origin olarak isimlendirir.
+Eğer projede farklı bir uzak depo varsa, o uzak depoya başka bir isim verilebilir. Ama varsayılan olarak, klonlama işlemi yapıldığında bu bağlantıya "origin" adı verilir.
+
+5)head: geçerli commiti veya çalıştığımız branchi temsil eder
+
+6)staging area bir ara bölgedir untrackedları tracked yapmamızı sağlar. 
+
+7)untracked: git tarafından takip edilmiyor demektir yani bunu mesela comitleyeceksek önce staging areaya çekmemiz lazım. bunu git status ile görüyoruz
+
+8)".git" klasörünü silersek init olan şeyi silmiş oluruz artık orda gitle alakalı herşey gider
+
+9)Her git init komutu kullandığında otomatik olarak bir README.md dosyası oluşturulmasını sağlamak için Git'in varsayılan şablon yapılandırmasını kullanabilirsin. Bunun için aşağıdaki adımları izleyebilirsin:
+Adımlar:
+
+    Git template (şablon) dizini oluştur: Önce, bir şablon dizini oluşturmalısın. Bu dizine her yeni Git deposu oluşturulduğunda otomatik olarak kopyalanmasını istediğin dosyaları koyabilirsin.
+
+    Örneğin:
+
+    bash
+
+mkdir -p ~/.git-templates/init
+
+README.md dosyasını şablon dizinine ekle: Bu dizine bir README.md dosyası ekle ve içerisine istediğin metni yazabilirsin. Örneğin:
+
+bash
+
+echo "# Yeni Proje" > ~/.git-templates/init/README.md
+
+Git'e şablon dizinini varsayılan olarak ayarla: Artık Git'e, her yeni git init komutu çalıştırıldığında bu şablon dizinini kullanmasını söylemelisin. Bunun için şu komutu çalıştır:
+
+bash
+
+    git config --global init.templateDir '~/.git-templates/init'
+
+Sonuç:
+
+Bundan sonra her git init komutu çalıştırdığında, README.md dosyası otomatik olarak oluşturulur. Bu dosya, şablon dizinindeki içerikle birlikte gelir.
+
+Bu yöntemle, yalnızca README.md değil, istediğin başka dosyaları da bu şablon dizinine ekleyebilirsin!
+
+
+
+
+10)Branch yapısı, projeyi bölümlere ayırarak daha düzenli, güvenli ve bağımsız bir geliştirme ortamı sağlar. Özellikle büyük projelerde branch’ler, hata yönetimi, yeni özellik ekleme ve ekip çalışmasında vazgeçilmez bir rol oynar.
+
+
+11)SORU(birkaç soru atladım)
+git clone" komutunu kullanırken belirli bir spesifik branch'i sadece çekmek istiyorsak nasıl yapabiliriz?
+
+
+
+
+Eğer develop adında bir branch'i klonlamak istiyorsan:
+
+bash
+
+git clone -b develop --single-branch https://github.com/kullaniciadi/repo-adi.git
+
+Bu komut, yalnızca develop branch'ini klonlar ve diğer branch'leri indirmez.
+
+12)merge conflicit:aynı dosyada aynı satırda veya yakınında yapılan değişikliklerden kaynaklanır.
+
+13)soru:"git diff" ile kaç farklı iki durumun arasındaki değişiklikleri görebiliriz?
+
+git diff komutu, çeşitli durumlar arasındaki değişiklikleri karşılaştırmanı sağlar:
+
+    Çalışma alanı ile staging area
+    Staging area ile son commit
+    İki commit
+    İki branch
+    Belirli bir commit ile çalışma alanı
+    Belirli bir dosya
+
+14)git tag ve git branch farkı:
+
+git tag: Belirli commit'lere isim verir ve onları işaretler. Genellikle sürüm numaraları için kullanılır.
+git branch: Projeyi farklı geliştirme yollarına ayırır, böylece farklı özellikler veya düzeltmeler üzerinde bağımsız olarak çalışılabilir.
+
+
+
+
+
+
+
