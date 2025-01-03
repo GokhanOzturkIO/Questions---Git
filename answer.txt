@@ -29,3 +29,8 @@ Staging areaya işlenmemiş yani izlenmeyen dosyadır.
 
 ---------------------------------------------------------------
 
+".git" klasörünü silersek ne olur?
+git klasörü silinirse dosya içeriğine girilemez.
+
+---------------------------------------------------------------
+
