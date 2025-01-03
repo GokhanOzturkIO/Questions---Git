@@ -104,3 +104,5 @@ Git, version controlü sağlayan bir araçtır.Github, versionlarını tuttuğum
 
 ---------------------------------------------------------------
 
+main ya da master branch'inin diğer branchlerden farkı nedir?
+Uzak sunucudaki depodaki ana branchtir.
