@@ -79,3 +79,8 @@ yapılan commitleri geri almamıza yarıyor ama dosya içerisindeki değişiklik
 
 ---------------------------------------------------------------
 
+"git commit" ile "git push" arasındaki fark nedir?
+git commit staging area ya dosyaları çekerken git push uzak sunucuya göndermeye yarıyor.
+
+---------------------------------------------------------------
+
