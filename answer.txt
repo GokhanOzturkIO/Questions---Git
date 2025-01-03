@@ -1,0 +1,4 @@
+Git Nedir?
+Git proje geliştirmeyi kolaylaştıran bir serverdır
+
+---------------------------------------------------------------
