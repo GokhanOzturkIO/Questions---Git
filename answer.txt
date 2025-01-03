@@ -14,3 +14,8 @@ uzak bilgisayardaki ana klasörü temsil eder
 
 ---------------------------------------------------------------
 
+"HEAD" kelimesi neyi temsil etmektedir?
+Head kelimesi branchteki son committir.
+
+---------------------------------------------------------------
+
