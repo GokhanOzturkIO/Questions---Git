@@ -74,3 +74,8 @@ son commit ve önceki commit arasındaki değişikleri görebilmemize olanak tan
 
 ---------------------------------------------------------------
 
+Git reset ile neyi geri alıyoruz?
+yapılan commitleri geri almamıza yarıyor ama dosya içerisindeki değişiklikleri geri alamaz.
+
+---------------------------------------------------------------
+
