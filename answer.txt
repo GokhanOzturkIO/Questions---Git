@@ -64,3 +64,8 @@ git pull ve git push dosyalarının kesişmesi durumudur.
 
 ---------------------------------------------------------------
 
+"git log" komutu ile hangi bilgileri görebiliriz?
+commit tarihçesini ve detay bilgilerini görebiliriz.
+
+---------------------------------------------------------------
+
