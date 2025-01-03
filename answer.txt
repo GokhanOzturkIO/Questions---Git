@@ -2,3 +2,10 @@ Git Nedir?
 Git proje geliştirmeyi kolaylaştıran bir serverdır
 
 ---------------------------------------------------------------
+
+Eğer takım arkadaşımız "kodlarımı gönderdim, benim geliştirmemin üzerine devam et" derse ve gönderdiği kodları "git pull" ile lokalimize alamıyorsak nerelerde hata yapılmış olabilir?
+1) pushlamamış olabilir
+2) eğer kodda değişiklik yapmış isek ve bunu commitlememiş isek bizde alamıyor olabiliriz.
+
+---------------------------------------------------------------
+
