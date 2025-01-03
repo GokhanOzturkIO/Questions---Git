@@ -54,3 +54,8 @@ Var olan bir "branch"e nasıl geçebiliriz?
 
 ---------------------------------------------------------------
 
+"git clone" komutunu kullanırken belirli bir spesifik branch'i sadece çekmek istiyorsak nasıl yapabiliriz?
+git clone -b branchAdı uzakRepoAdresi" ile repodan istenen branchi çekebiliriz
+
+---------------------------------------------------------------
+
