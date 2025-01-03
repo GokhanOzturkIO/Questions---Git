@@ -24,3 +24,8 @@ pushlanmadan önce yapılan revizyonları gösteren alana Staging area denir.
 
 ---------------------------------------------------------------
 
+"Untracked file" ne demektir?
+Staging areaya işlenmemiş yani izlenmeyen dosyadır.
+
+---------------------------------------------------------------
+
