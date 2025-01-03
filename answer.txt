@@ -89,3 +89,8 @@ yapılan değişikleri takip edilebilmesi için yapılan commit işlemidir.
 
 ---------------------------------------------------------------
 
+Repository ne demektir?
+Herhangi dijital içeriği depolamak ve yönetmek için kullanılan depolama alanıdır.
+
+---------------------------------------------------------------
+
