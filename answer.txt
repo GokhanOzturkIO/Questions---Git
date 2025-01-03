@@ -69,3 +69,8 @@ commit tarihçesini ve detay bilgilerini görebiliriz.
 
 ---------------------------------------------------------------
 
+"git diff" ile kaç farklı iki durumun arasındaki değişiklikleri görebiliriz?
+son commit ve önceki commit arasındaki değişikleri görebilmemize olanak tanır.
+
+---------------------------------------------------------------
+
