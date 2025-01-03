@@ -9,3 +9,8 @@ Eğer takım arkadaşımız "kodlarımı gönderdim, benim geliştirmemin üzeri
 
 ---------------------------------------------------------------
 
+"git fetch origin" komutundaki "origin" neye karşılık gelmektedir?
+uzak bilgisayardaki ana klasörü temsil eder
+
+---------------------------------------------------------------
+
