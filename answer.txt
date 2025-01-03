@@ -34,3 +34,8 @@ git klasörü silinirse dosya içeriğine girilemez.
 
 ---------------------------------------------------------------
 
+Kendi lokalimizde her "git init" komutunu kullanıdığımızda otomatik olarak "ReadMe.md" dosyası oluşturulmasını istiyorsak ne yapmalıyız?
+template oluşturup onu aktif etmeliyiz
+
+---------------------------------------------------------------
+
