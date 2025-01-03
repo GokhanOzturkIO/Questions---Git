@@ -99,3 +99,8 @@ Kullanılan ide içinde gelen git arayüzleri, Github Desktop, SourceTree, GitKr
 
 ---------------------------------------------------------------
 
+"GitHub" ile "git" arasındaki fark nedir? GitHub benzeri diğer siteler nelerdir? GitHub veya diğer sitelerdeki kullanıcı adlarını yazar mısınız?
+Git, version controlü sağlayan bir araçtır.Github, versionlarını tuttuğumuz repoları saklayabileceğimiz bir uzak sunucu hizmetidir. GitLab, Bitbucket, SourceForge gibi servisler Github benzeri servislerdir.
+
+---------------------------------------------------------------
+
