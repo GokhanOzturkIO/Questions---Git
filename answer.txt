@@ -44,3 +44,8 @@ ayrı dallarda çalışarak işi hızlandırıp sonuç vermemize yarar.
 
 ---------------------------------------------------------------
 
+Sıfırdan bir "branch" nasıl oluşturabiliriz?
+ya "git branch branchadı" komutunu kullanarak ya da "git checkout -b branchadı" komutunu kullanarak oluşturabiliriz.
+
+---------------------------------------------------------------
+
