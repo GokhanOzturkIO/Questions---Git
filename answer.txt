@@ -49,3 +49,8 @@ ya "git branch branchadı" komutunu kullanarak ya da "git checkout -b branchadı
 
 ---------------------------------------------------------------
 
+Var olan bir "branch"e nasıl geçebiliriz?
+"git checkout branchadı" komutu ile geçebiliriz.
+
+---------------------------------------------------------------
+
