@@ -94,3 +94,8 @@ Herhangi dijital içeriği depolamak ve yönetmek için kullanılan depolama ala
 
 ---------------------------------------------------------------
 
+"git tag" nedir? "git branch"’ten farkı nedir?
+taglar işaretleyicilerdir, branch ise farklı çalışma yollarıdır.
+
+---------------------------------------------------------------
+
