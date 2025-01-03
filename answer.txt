@@ -59,3 +59,8 @@ git clone -b branchAdı uzakRepoAdresi" ile repodan istenen branchi çekebiliriz
 
 ---------------------------------------------------------------
 
+"Merge conflict" ne demektir?
+git pull ve git push dosyalarının kesişmesi durumudur.
+
+---------------------------------------------------------------
+
