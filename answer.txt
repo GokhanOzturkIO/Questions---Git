@@ -94,8 +94,8 @@ Herhangi dijital içeriği depolamak ve yönetmek için kullanılan depolama ala
 
 ---------------------------------------------------------------
 
-"git tag" nedir? "git branch"’ten farkı nedir?
-taglar işaretleyicilerdir, branch ise farklı çalışma yollarıdır.
+Git'i görsel olarak kullanabilmek için hangi üçüncü taraf araçları ve uygulamaları kullanabiliriz?
+Kullanılan ide içinde gelen git arayüzleri, Github Desktop, SourceTree, GitKraken, SmartGit, Magit, RepoZ, GitViewer, Glint
 
 ---------------------------------------------------------------
 
