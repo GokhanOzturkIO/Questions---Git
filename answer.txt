@@ -39,3 +39,8 @@ template oluşturup onu aktif etmeliyiz
 
 ---------------------------------------------------------------
 
+Git konusunda bahsi geçen "branch" yapısı nedir? Bize ne sağlar?
+ayrı dallarda çalışarak işi hızlandırıp sonuç vermemize yarar.
+
+---------------------------------------------------------------
+
