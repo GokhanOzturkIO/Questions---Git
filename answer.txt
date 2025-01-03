@@ -84,3 +84,8 @@ git commit staging area ya dosyaları çekerken git push uzak sunucuya gönderme
 
 ---------------------------------------------------------------
 
+Atomic commit ne demektir?
+yapılan değişikleri takip edilebilmesi için yapılan commit işlemidir. 
+
+---------------------------------------------------------------
+
