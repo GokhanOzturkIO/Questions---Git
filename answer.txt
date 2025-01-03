@@ -19,3 +19,8 @@ Head kelimesi branchteki son committir.
 
 ---------------------------------------------------------------
 
+"Staging Area" ya da "Index" diye isimlendirilen bölge tam olarak ne demektir?
+pushlanmadan önce yapılan revizyonları gösteren alana Staging area denir.
+
+---------------------------------------------------------------
+
